@@ -1,9 +1,10 @@
 #Week 4: dplyr package
+# Question for the professor. Where am i suppsoed to leave my answers. Would you be able to give me an example on here. Under the area before the next tast?
 
 #Task: Write the function to get a dataset from Base R: Titanic
 #and give the dataframe a new name of your choice
 #(hint: you will want your data to be a dataframe. Use the function: as.data.frame(Titanic))
-
+ 
 #See the top rows of the data
 #TASK: Write the function to see the top rows of the data
 
